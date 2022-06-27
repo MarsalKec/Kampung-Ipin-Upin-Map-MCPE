@@ -1,0 +1,148 @@
+{
+  "Config": [
+    {
+      "interval": 5,
+      "backup": "unity",
+      "status": true,
+      "link": "https://google.com/",
+      "contact": "https://google.com/",
+      
+      "addon": false,
+      "maps": false,
+      "texture": true,
+      "skin": true,
+      "more": false,
+      
+      "admob_open_ads": "ca-app-pub-3940256099942544/3419835294",
+      "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+      "admob_inter": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native": "ca-app-pub-3940256099942544/2247696110",
+     
+      
+      "unity_banner": "Banner_Android",
+      "unity_inter": "Interstitial_Android",
+      
+      
+      "applovin_banner": "unitid",
+      "applovin_inter": "unitid",
+      "applovin_native": "unitid",
+      
+      "ironsource_banner": "1215fccad",
+      "ironsource_inter": "1215fccad"
+      
+      
+    }
+  ],
+  "Addon": [
+    {
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
+    }
+  ],
+  "Map": [
+    {
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
+    }
+  ],
+  "Texture": [
+    {
+        "name": "Fixed Player Animation (Beta 0.1.0)",
+        "role": "Have you ever been sick of Bedrock Edition's broken animations? This resource pack will fix the player animations! We'll keep trying to fix as many bugs as we can!Note: There may be a few bugs that are not currently present in vanilla. If you find a bug, we'd appreciate it if you'd contact us right away!",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Animation/4/1.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Animation/4/fixed_player_animation_kurisan_fox_kuma.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Animation/4/1.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Animation/4/1.png"
+    },
+    {
+        "name": "Java 1.7 Animations V2",
+        "role": "Do you hate the vanilla Bedrock Edition player animations and general feel of the new Bedrock, ever since 1.13.0? Or maybe you want yet another way to make Bedrock look and feel closer to Java Edition, especially for PVP. Look no further, because this pack makes many improvements and tweaks to player animations to more closely resemble Java edition 1.7 (and even bedrock 1.12.1!).",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Animation/5/1.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Animation/5/1.16.100_java_anims_v2_by_ambient.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Animation/5/3.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Animation/5/2.png"
+    },
+    {
+        "name": "EPIC PvP Animations",
+        "role": "Hello! I recently have been developing a PvP texture pack, and I added custom animations. However, some people didn't like some of the animations, so I decided to make this new pack that only modifies the animations.",
+        "image": "https://kossandroid.com/Data Android/Minecraft/Animation/6/2.png",
+        "file_url": "https://kossandroid.com/Data Android/Minecraft/Animation/6/EpicAnimations.mcpack",
+        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Animation/6/1.png",
+        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Animation/6/1.png"
+    }
+  ],
+  "Skins": [
+    {
+    "id": 1,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/LWg3wxGodm-6ZQVOyHuKsVLSAbx6U5E-Pbshq94sBijAyJcy2sQY1NNkR9XPPT-EG4zje7C_bxAh2JfOLGR3GjYQv2FmYdufcco",
+    "view_skin": "https://lh3.googleusercontent.com/cSu7GOQfqswPZR-eeEGdrqy7EsCIwiGbZLH9-PrC7aukws2E5xxfv4l5Z1yqW9ffcwcbjjDwWeKkpAnUi9gb11d7yBIJwqqiKA"
+  },
+  {
+    "id": 2,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/kZ5tjQjuIXcjuMksoqT9liCPEbAIT4ju9hWI9ZYfH_EUC3cBdf2hYDX1RtWRRWc_cSHNDwZQQXXHkdVaYzRrhu9kp1Z-I2IF1IM",
+    "view_skin": "https://lh3.googleusercontent.com/clEKRan1NC-8gIAJaaFoJZCWjm76ZTmEh43DO4mk1isFAJ3NwCavgLpgKZEhKzPoXp1qXUjCWqwIqOjXLKVR-uXE26f7j82wGMI"
+  },
+  {
+    "id": 3,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/tNEscajbqkul8XAb5wWoLwyqkeeyIfEAV5myOjiA7nQYYshqBRN3jX_LByf2B_OoB_RVrWdRgMO1u9-Y7vEWPow9rp_K8_ZQ_7cE",
+    "view_skin": "https://lh3.googleusercontent.com/8Ud_LY5XG1igdaArYnqbFGq5pUShUJQsx3avKK2h4bCXyATo1Uc4HBYAnpiUjs2Rb2VbpXgOT-66pGqgOAa1XFbWbvCACMcpxg"
+  },
+  {
+    "id": 4,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/F256UN2oF3MmQC4sQIjI6NNwjd2vPAi2DwuSPIKzd6rNRYJgO24zVGbtxc2qdgqqr72NkOqCCyEc0ITfwOMZPp7wz4h5gQgjwg",
+    "view_skin": "https://lh3.googleusercontent.com/dWZ9EZ9AU5Rqcp9fWzazDir2HKWfWVvdcr_N_Yz_dBKNU1OlXe2q2hoHdTMB1tYA9gYWFzyX4rnNwd1f7-d9M_Z5wYwtvS4f0nI"
+  },
+  {
+    "id": 5,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/HpiqNwnwhS6oQqidnxCOo2u87gK6AMOjJNRYqx8LIVNiBmMtJQcu6HW1x7RQeCHAEj1kMtaWzrAESSglqlBh10jTtxdBpM8FeX8",
+    "view_skin": "https://lh3.googleusercontent.com/PGtf2YUyFmpJQMEzwO_eqkXV1yPnjizRaC_bismzsWB_sQb4bHMAyqqH2PUbqLHv1EH_jh__WPz764jx8R28DKOaNiMfrmaYPj8"
+  },
+  {
+    "id": 6,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/uLPNAEbVcQOVCfFeL9VqQx1n9gcTfsnhp7__loBvEsLWZRc-qKDyjQSIo1GXzSpfMJS3sMNCBpYOz0Bq-NL8z_ah68kM5mO7Vg",
+    "view_skin": "https://lh3.googleusercontent.com/6FSa62_oT4H4wTP6hAd8GFVoGFJJroTxUAXCc47zSKZtW0-Vumbq97-97-IKyTNxTJvSedIJKiRE4yL_95QUZCEAICBgalW_Zw"
+  },
+  {
+    "id": 7,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/meuefqLhuQfc3CWUcZZKFgqxl6joOUG8PIbzWU7b8l5blHL-HqW9SegmB549cIyGHOu7Xuh0qXGnT2BfvLKwVHopPOZeI-VXFIFG",
+    "view_skin": "https://lh3.googleusercontent.com/tL6ojGblvrqRWmlCz4OkiOzzQojIe6zqT4K_cUzdRu83zx09nLQwSDfwcGCmNxPzVmKeZeUqt0hC4TYo-C5juT_h6K6EZfRggls"
+  },
+  {
+    "id": 8,
+    "name_skin": "",
+    "skin_url": "https://lh3.googleusercontent.com/yyfjZIxClrtElvslvUXMgIlU7q2T5RfqTG2Z8_kdOR13NqPCKwchK6V-9_dy2fzgVqKshQ4qd8ioc_5m7CuItdZ2JP2Ad6IfOPI",
+    "view_skin": "https://lh3.googleusercontent.com/Pr9ls-oQsXAMGuXYil7-4kDvxM0twUAzNs-Fm2iWgo1LYkKlSRKy29y3cXXjHqcs5g2MBTaAq01SH8PTji_hWzDXUw2tkVN6SkY"
+  }
+  ],
+  "More":
+  [
+      
+      
+  
+    {
+      "id":1,
+      "title":"",
+      "image":"",
+      "link":"https://google.com/"
+    }
+  
+
+      
+      
+      ]
+}
