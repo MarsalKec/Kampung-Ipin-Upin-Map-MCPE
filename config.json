@@ -9,7 +9,7 @@
       
       "addon": false,
       "maps": false,
-      "texture": true,
+      "texture": false,
       "skin": true,
       "more": false,
       
@@ -55,28 +55,12 @@
   ],
   "Texture": [
     {
-        "name": "Fixed Player Animation (Beta 0.1.0)",
-        "role": "Have you ever been sick of Bedrock Edition's broken animations? This resource pack will fix the player animations! We'll keep trying to fix as many bugs as we can!Note: There may be a few bugs that are not currently present in vanilla. If you find a bug, we'd appreciate it if you'd contact us right away!",
-        "image": "https://kossandroid.com/Data Android/Minecraft/Animation/4/1.png",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/Animation/4/fixed_player_animation_kurisan_fox_kuma.mcpack",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Animation/4/1.png",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Animation/4/1.png"
-    },
-    {
-        "name": "Java 1.7 Animations V2",
-        "role": "Do you hate the vanilla Bedrock Edition player animations and general feel of the new Bedrock, ever since 1.13.0? Or maybe you want yet another way to make Bedrock look and feel closer to Java Edition, especially for PVP. Look no further, because this pack makes many improvements and tweaks to player animations to more closely resemble Java edition 1.7 (and even bedrock 1.12.1!).",
-        "image": "https://kossandroid.com/Data Android/Minecraft/Animation/5/1.png",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/Animation/5/1.16.100_java_anims_v2_by_ambient.mcpack",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Animation/5/3.png",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Animation/5/2.png"
-    },
-    {
-        "name": "EPIC PvP Animations",
-        "role": "Hello! I recently have been developing a PvP texture pack, and I added custom animations. However, some people didn't like some of the animations, so I decided to make this new pack that only modifies the animations.",
-        "image": "https://kossandroid.com/Data Android/Minecraft/Animation/6/2.png",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/Animation/6/EpicAnimations.mcpack",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Animation/6/1.png",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Animation/6/1.png"
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
     }
   ],
   "Skins": [
